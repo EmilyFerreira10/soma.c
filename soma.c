@@ -10,7 +10,7 @@ int main()
     printf("digite o valor incial do intervalo: ");
     scanf("%d", &inicio);
 
-    printf("digite o valor incial do intervalo: ");
+    printf("digite o valor final do intervalo: ");
     scanf("%d", &fim);
 
     if(inicio>fim)
